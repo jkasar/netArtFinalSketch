@@ -1,0 +1,16 @@
+{
+  "name": "firstsketch",
+  "version": "1.0.0",
+  "description": "a sketch of my final project that will utilize server client relationship and encryption",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "John Kasarda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
